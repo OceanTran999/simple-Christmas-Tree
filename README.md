@@ -8,7 +8,7 @@ git clone https://github.com/OceanTran999/simple-Christmas-Tree.git
 
 # how to use
 ```console
-$ python3 Christmas_Tree/py --help
+$ python3 Christmas_Tree.py --help
 options:
   -h, --help            show this help message and exit
   -H HEIGHT, --height HEIGHT
