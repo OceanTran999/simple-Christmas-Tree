@@ -6,7 +6,7 @@ Here's my simple Christmas Tree with snow and lights effect :)
 git clone https://github.com/OceanTran999/simple-Christmas-Tree.git
 ```
 
-# how to use
+# How to use
 ```console
 $ python3 Christmas_Tree.py --help
 options:
